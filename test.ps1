@@ -1,2 +1,2 @@
  
- write-host "this has been completed" $status
+ write-host "this has been completed from test1 is" $status
